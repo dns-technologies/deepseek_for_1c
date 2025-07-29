@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.19">
+	<ConfigVersions>
+		<Metadata name="Bot.Deepseek" id="0ed7dcd5-6c06-49b6-8ac6-181437abffa4" configVersion="71b1adc4793bc140baca4f23213a996400000000"/>
+		<Metadata name="Bot.Deepseek.Module" id="0ed7dcd5-6c06-49b6-8ac6-181437abffa4.1" configVersion="5b8283c6fd069f43bd197092181e77cb00000000"/>
+		<Metadata name="Catalog.НастройкиПодключения" id="3171d123-cdcd-4803-a59b-a65db5aa4c9d" configVersion="5ba21879ce6b534c8cb989a9ccc3bfc100000000">
+			<Metadata name="Catalog.НастройкиПодключения.Attribute.ПортБД" id="0934b40f-bed8-481f-b846-bc1880a5d235"/>
+			<Metadata name="Catalog.НастройкиПодключения.Attribute.ПользовательБД" id="0c2f68d6-bac6-4cd3-9ff6-c5771e9258bd"/>
+			<Metadata name="Catalog.НастройкиПодключения.Attribute.СерверБД" id="2e7f0db1-83d1-459c-aa77-a3b034ff4854"/>
+			<Metadata name="Catalog.НастройкиПодключения.Attribute.ПарольБД" id="5715780e-9037-4259-be61-730107bbd563"/>
+			<Metadata name="Catalog.НастройкиПодключения.Attribute.АдресИИ" id="65792ce7-b0d8-4ee4-86f7-860c22fc9c3c"/>
+			<Metadata name="Catalog.НастройкиПодключения.Attribute.АдресСервера" id="787da3dc-9a2a-4e64-816f-4a05ccd2e4a5"/>
+			<Metadata name="Catalog.НастройкиПодключения.Attribute.ТокенИИ" id="9dc358c7-87b1-4359-8852-65ea46f071d9"/>
+			<Metadata name="Catalog.НастройкиПодключения.Attribute.ИмяБД" id="fa2bc316-9a1b-4f37-95bf-b4d6130592c7"/>
+		</Metadata>
+		<Metadata name="Catalog.НастройкиПодключения.Form.ФормаЭлемента" id="59018769-79ee-4b4d-9d65-5af0548a2c15" configVersion="dfdbe3c1a326bf4a8e4ac3689215664100000000"/>
+		<Metadata name="Catalog.НастройкиПодключения.Form.ФормаЭлемента.Form" id="59018769-79ee-4b4d-9d65-5af0548a2c15.0" configVersion="579221ede0122a4c9d82fa4f856a889000000000"/>
+		<Metadata name="Catalog.НастройкиПодключения.ManagerModule" id="3171d123-cdcd-4803-a59b-a65db5aa4c9d.3" configVersion="17db9fa07e7bbc4a906b9decb6de5a6a00000000"/>
+		<Metadata name="CommonModule.НастройкиПодключенияПовтИсп" id="5e3616fd-3807-4b0c-aad8-56ffe7e4a4ee" configVersion="15d28d214a3e78458e86bab8fffc874800000000"/>
+		<Metadata name="CommonModule.НастройкиПодключенияПовтИсп.Module" id="5e3616fd-3807-4b0c-aad8-56ffe7e4a4ee.0" configVersion="9996cfa5a4176746bc39ac2f8b202eb500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="8fd8443f-fb3e-4f9d-af69-b1cd3246384e" configVersion="327593297b0a45439640150d73f6d34500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="8fd8443f-fb3e-4f9d-af69-b1cd3246384e.0" configVersion="6a77761e1bb5f1418f11ece1415e735800000000"/>
+		<Metadata name="CommonModule.РегламентноеЗадание" id="c65cd0ba-9a14-4a6b-afda-dbff9ba574e1" configVersion="4a958dc1d885bc4c8dbac06cd3a0ac6600000000"/>
+		<Metadata name="CommonModule.РегламентноеЗадание.Module" id="c65cd0ba-9a14-4a6b-afda-dbff9ba574e1.0" configVersion="8a4dd06f19d0fb4798cf96112c8df77100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="52ee014f-70d3-42dc-abc8-ff628e9f585e" configVersion="5c49c6efdcb22a49b00def369bcfc56f00000000"/>
+		<Metadata name="Language.Русский" id="48d06e60-8dab-47e6-8456-4974dbf1d481" configVersion="9caad99da9d2aa43af63c5b8aff30eee00000000"/>
+		<Metadata name="Role.Администратор" id="fd6bc669-4f29-427a-b9eb-e10b0dfaee83" configVersion="43ecc80e129aec408866aec7af592cae00000000"/>
+		<Metadata name="Role.Администратор.Rights" id="fd6bc669-4f29-427a-b9eb-e10b0dfaee83.0" configVersion="db58d0143245bd41a4e0061114f7824900000000"/>
+		<Metadata name="ScheduledJob.ЗапускБота" id="f9ec8071-f726-40ab-b97e-2917dcad5450" configVersion="cf563b163c026f4abbdc6c755e3a6b6300000000"/>
+		<Metadata name="ScheduledJob.ЗапускБота.Schedule" id="f9ec8071-f726-40ab-b97e-2917dcad5450.0" configVersion="7accba81f40e574c87ae6e9273c0d38e00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
