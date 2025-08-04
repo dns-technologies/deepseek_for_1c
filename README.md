@@ -1,3 +1,6 @@
+![infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+
+[🚀 Deepseek + Система Взаимодействия = Шалость удалась!](https://infostart.ru/public/edit/?id=2439954)
 
 ## Сборка состоит
 
